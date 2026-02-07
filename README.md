@@ -4,6 +4,12 @@ This project performs a comprehensive sales analysis using SQL and Python on an 
 
 ---
 
+## Dataset
+
+The dataset (`sales.db`) is not included due to size. You can use a sample CSV or connect to your own e-commerce database to replicate the analysis. Ensure the database has the same schema as the original.
+
+---
+
 ## 🔍 Project Overview
 
 The analysis covers:
